@@ -1,2 +1,2 @@
 # docker-rsync
-Docker image with rsync &amp; OpenSSH on Alpine
+Docker image with rsync &amp; OpenSSH client on Alpine
